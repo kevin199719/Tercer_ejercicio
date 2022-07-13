@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\bin\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.exe
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\bin\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.deps.json
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\bin\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.runtimeconfig.json
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\bin\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\bin\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.dll
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\bin\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.pdb
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.dll
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.pdb
+C:\Users\kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Uam\Cuatrimestres\Quinto Cuatri\Progra 3\Ejemplos\Semana 2 clase 1 ejemplo 2\Semana 2 clase 1 ejemplo 2\obj\Debug\netcoreapp3.1\Semana 2 clase 1 ejemplo 2 poliformismo.GeneratedMSBuildEditorConfig.editorconfig
